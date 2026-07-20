@@ -70,3 +70,4 @@ Author
 License
 •	Open-source for educational purposes
 
+![image](https://github.com/R56053/GUI-Python-Calculator/blob/2e13e9a4990addd8d6847c0f3921cdec33c62531/Python%20Calculator.png)
